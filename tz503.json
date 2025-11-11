@@ -1,4 +1,4 @@
 {
-"apiPath": "http://test-api.getkpesa.com",
-"h5Path": "http://test-app.getkpesa.com"
+"a": "http://test-api.getkpesa.com",
+"b": "http://test-app.getkpesa.com"
 }
